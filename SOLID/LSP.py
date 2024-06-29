@@ -1,4 +1,4 @@
-# This principal fored inherited classes from parent class to not make the parent class ruls violate
+# This principal force inherited classes from parent class to not make the parent class ruls violate
 # it meant if panguin cant fly it shoud not inherit from Bird class
 class Bird:
     def eat(self):

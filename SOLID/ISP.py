@@ -28,7 +28,7 @@ from abc import ABC, abstractmethod
 #         raise NotImplementedError("Robots do not eat")
  
  # We should split the interface into smaller, more specific ones.
- 
+
 class Workable(ABC):
     @abstractmethod
     def work(self):
